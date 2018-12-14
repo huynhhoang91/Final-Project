@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"chat"},{"l":"chat.client"}]
